@@ -1,0 +1,6 @@
+<genre>_with_matches.p
+
+contains 
+- dmc_gerne.dmc_books: list of DMCBook
+    -  goodreads_match: GoodreadsBook
+        - title: title
